@@ -1,0 +1,1 @@
+const myVar = 12 - 6;
